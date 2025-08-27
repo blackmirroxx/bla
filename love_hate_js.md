@@ -1,4 +1,4 @@
-Of course! Let's take this list of grievances and give it the dramatic, over-the-top, and slightly unhinged energy it deserves, complete with code examples that will make you laugh (and then cry a little).
+Let's take this list of grievances and give it the dramatic, over-the-top, and slightly unhinged energy it deserves, complete with code examples that will make you laugh (and then cry a little).
 
 ***
 
@@ -190,4 +190,4 @@ import { createApp } from 'vue'; createApp({...}).mount('#app');
 
 So, is JavaScript horrible? Nah. It's just a lovable goofball with a heart of gold and a brain full of bees. It's powerful, it's everywhere, and despite all its quirks, we can't really live without it. Just remember to use `===`, avoid globals, and always have a therapist on speed dial.
 
-Was this article helpful? It was probably more therapeutic for me to write it than for you to read it. You're welcome.
+
